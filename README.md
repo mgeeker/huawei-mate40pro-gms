@@ -2,9 +2,9 @@
 
 1、修改系统时间到2020/7月之前
 
-2、下载 [https://drive.google.com/file/d/1e_Qrqznk7QxJaUE-9r1xhTwQNoPxmfUl/view](https://drive.google.com/file/d/1e_Qrqznk7QxJaUE-9r1xhTwQNoPxmfUl/view) Google套件，并解压
+2、下载Google套件, [https://github.com/mgeeker/huawei-mate40pro-gsm](https://github.com/mgeeker/huawei-mate40pro-gsm) ，并解压
 
-3、解压 huawei.zip
+3、解压 Backup.zip
 
 4、系统恢复 （密码：a12345678）
 
