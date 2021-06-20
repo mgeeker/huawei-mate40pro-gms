@@ -2,7 +2,7 @@
 
 1、修改系统时间到2020/7月之前
 
-2、下载Google套件, [https://github.com/mgeeker/huawei-mate40pro-gsm](https://github.com/mgeeker/huawei-mate40pro-gsm) 
+2、下载Google套件, [https://github.com/mgeeker/huawei-mate40pro-gms](https://github.com/mgeeker/huawei-mate40pro-gms) 
 
 3、解压 Backup.zip
 
