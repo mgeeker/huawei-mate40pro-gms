@@ -1,4 +1,4 @@
-# Huawei Mate 40 Pro Install GSM
+# Huawei Mate 40 Pro Install GMS
 
 1、修改系统时间到2020/7月之前
 
